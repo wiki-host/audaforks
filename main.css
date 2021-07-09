@@ -58,7 +58,28 @@ h1{
 	position:relative;
 	top:1px;
 }
+.forkb {
+	box-shadow:inset 6px 36px 0px -24px #ff9900;
+	background-color:#ff8605;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #a35400;
+}
+.forkb:hover {
+	background-color:#c26400;
+}
+.forkb:active {
+	position:relative;
+	top:1px;
+}
 body{
   background-color: #ffb800;
   color:#883c0c;
- )
+}
